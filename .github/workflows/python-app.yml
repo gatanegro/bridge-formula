@@ -11,6 +11,9 @@ on:
 
 permissions:
   contents: read
+        - name: Test with pytest
+        run: |
+          if [ -d tests ]; then pytest; else echo "No tests directory, skipping."; fi
 
 jobs:
   build:
