@@ -1,3 +1,5 @@
+This py have GUI, will not run here, please download the code to use it in your system or download the software.
+
 ## Download & Run
 
 - For most users, **download the installer (.exe)** from the [Releases page](https://github.com/gatanegro/bridge-formula/releases) and run it—no Python installation needed!
