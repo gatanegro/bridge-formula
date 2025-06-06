@@ -7,7 +7,7 @@
   git clone https://github.com/gatanegro/bridge-formula.git
   cd bridge-formula
   pip install -r requirements.txt
-  python bridge_gui.py
+  python Universal_Bridge_Formula_Calculator.py
   ```
 
 ## Citation
@@ -22,3 +22,4 @@ If you use this tool for research, please cite:
 
 
 (https://doi.org/10.5281/zenodo.15605064)
+This Software is Copywrite 2025 Martin Doina
