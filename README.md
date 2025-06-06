@@ -14,6 +14,11 @@
 
 If you use this tool for research, please cite:
 
-[![DOI](https://zenodo.org/badge/DOI/xxxxxxx.svg)](https://doi.org/xxxx/zenodo.xxxxx)
 
-> Gatanegro. (2025). Bridge Formula [Computer software]. Zenodo. https://doi.org/xxxx/zenodo.xxxxx
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15605064.svg)](https://doi.org/10.5281/zenodo.15605064)
+
+
+
+
+(https://doi.org/10.5281/zenodo.15605064)
